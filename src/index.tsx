@@ -1,5 +1,4 @@
 import { createServer, Model } from "miragejs";
-import { request } from "node:http";
 import React from "react";
 import ReactDOM from "react-dom";
 import { App } from "./App";
